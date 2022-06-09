@@ -8,8 +8,5 @@ new line for GUI2
 mur
 7=7
 8=8
-<<<<<<< HEAD
-=======
 9=9
->>>>>>> first_name
 
