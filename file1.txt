@@ -4,5 +4,5 @@ commit test
 789.
 Add line
 new branch line
-new line for GUI1
+new line for GUI2
 
